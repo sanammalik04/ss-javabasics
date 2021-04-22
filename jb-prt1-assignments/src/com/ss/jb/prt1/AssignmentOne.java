@@ -47,10 +47,7 @@ public class AssignmentOne {
 			for (int blanks = 4; blanks >= row; blanks--) {
 				System.out.print(" ");
 			}
-			for (int columnOne = 1; columnOne <= row; columnOne++) {
-				System.out.print("*");
-			}
-			for (int columnTwo = 2; columnTwo <= row; columnTwo++) {
+			for (int column = 1; column < (row * 2); column++) {
 				System.out.print("*");
 			}
 			System.out.println();
