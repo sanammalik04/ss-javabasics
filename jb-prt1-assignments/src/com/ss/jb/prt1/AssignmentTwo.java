@@ -16,7 +16,7 @@ import java.util.Scanner;
 //(If the answer is 63, user must guess 53-73.)
 //If the number is not within 10 of the correct answer, ask the user to keep guessing.
 //If the user does not succeed within 5 attempts, display, "Sorry," along with the answer and exit.
-public class NumberGuessingGame {
+public class AssignmentTwo {
 
 	/**
 	 * @param args
