@@ -10,7 +10,7 @@ import java.util.List;
  * @author sanammalik
  *
  */
-public class AssignmentsPrt2 {
+public class Assignment2 {
 
 	/**
 	 * @param args
